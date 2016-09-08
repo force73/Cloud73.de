@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_keys">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="status_options">
+        <item>Öffentlich</item>
+        <item>Beobachtungsliste</item>
+        <item>Privat</item>
+    </string-array>
+    <string name="add">Hinzufügen</string>
+    <string name="adding_bookmark">Lesezeichen wird hinzugefügt</string>
+    <string name="app_name">Cloud73.de</string>
+    <string name="bookmark_created">Lesezeichen hinzugefügt!</string>
+    <string name="bookmark_deleted">Lesezeichen gelöscht!</string>
+    <string name="bookmark_updated">Lesezeichen bearbeitet!</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_bookmark">Lösche Lesezeichen</string>
+    <string name="delete_confirm">Sind Sie sicher, dass Sie das Lesezeichen \"%1$s\" löschen wollen?</string>
+    <string name="description_label">Beschreibung:</string>
+    <string name="details">Zeige Details</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="error_apigeneric">Bei dem Versuch, mit dem Server zu kommunizieren, ist ein Fehler aufgetreten.</string>
+    <string name="error_authentication">Ihr Benutzername und Passwort wurden nicht akzeptiert. Bitte überprüfen Sie die Einstellungen.</string>
+    <string name="error_bookmarkdelete_notfound">Dieses Lesezeichen wurde auf dem Server nicht gefunden. Es wurde wahrscheinlich schon gelöscht.</string>
+    <string name="error_bookmarkexists">Dieses Lesezeichen ist bereits vorhanden!</string>
+    <string name="error_bookmarkexists_retrieving">Dieses Lesezeichen ist bereits vorhanden. Lade ursprüngliches Lesezeichen, damit Sie es bearbeiten können.</string>
+    <string name="error_notfound">Die Server-Adresse scheint falsch zu sein. Bitte überprüfen Sie die Cloud73.de-Server-URL in den Einstellungen</string>
+    <string name="error_sslconnection">Beim Versuch, eine SSL (https) Verbindung mit dem Server herzustellen ist ein Fehler aufgetreten.</string>
+    <string name="error_timeout">Die Verbindung zum Server benötigte zu lange um abzuschließen.</string>
+    <string name="error_titlerequired">Der Title wird benötigt</string>
+    <string name="error_unknownhost">Die Server-Adresse konnte nicht aufgelöst werden. Bitte überprüfen Sie die Cloud73.de-Server-URL in den Einstellungen.</string>
+    <string name="error_urlrequired">Die URL wird benötigt</string>
+    <string name="error_xmlparse">Die Antwort des Servers ist ungültig. Bitte überprüfen Sie die Cloud73.de-Server-URL in den Einstellungen.</string>
+    <string name="open">Öffnen</string>
+    <string name="pref_acceptallcerts">Alle SSL-Zertifikate akzeptieren</string>
+    <string name="pref_acceptallcerts_summary">WARNUNG: Dies stellt ein wichtiges Sicherheitsrisiko dar.</string>
+    <string name="pref_defaultstatus">Standardstatus</string>
+    <string name="pref_defaultstatus_summary">Standardstatus der Privatsphäre von Lesezeichen</string>
+    <string name="pref_password">Password</string>
+    <string name="pref_password_summary">Ihr Passwort bei Cloud73.de</string>
+    <string name="pref_url">Cloud73.de-Server-URL</string>
+    <string name="pref_url_summary">Die URL des Cloud73.de-Servers</string>
+    <string name="pref_username">Benutzername</string>
+    <string name="pref_username_summary">Ihr Benutzername bei Cloud73.de</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="save">Speichern</string>
+    <string name="search">Suche</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">Teilen</string>
+    <string name="share_via">Teilen mit</string>
+    <string name="status_label">Status:</string>
+    <string name="status_prompt">Privatsphäre-Einstellung wählen</string>
+    <string name="tags_label">Schlagwörter:</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_bookmark_add">Lesezeichen hinzufügen</string>
+    <string name="title_bookmark_detail">Lesezeichen-Details</string>
+    <string name="title_bookmark_edit">Lesezeichen bearbeiten</string>
+    <string name="title_bookmark_share">Cloud73.de</string>
+    <string name="title_label">Titel:</string>
+    <string name="updating_bookmark">Lesezeichen wird bearbeitet</string>
+    <string name="url_label">URL:</string>
+</resources>

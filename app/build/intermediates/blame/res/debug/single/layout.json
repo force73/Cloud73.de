@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmark_detail.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\layout\\activity_bookmark_detail.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmark_add.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\layout\\activity_bookmark_add.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmark_list.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\layout\\activity_bookmark_list.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmark_edit.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\layout\\activity_bookmark_edit.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_list_item.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\layout\\bookmark_list_item.xml"
+    }
+]

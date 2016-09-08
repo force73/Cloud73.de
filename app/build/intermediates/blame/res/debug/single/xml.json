@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]

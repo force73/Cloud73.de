@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_open.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_open.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_status_shared.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_status_shared.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_status_public.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_status_public.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_share.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_status_private.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_status_private.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_edit.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_delete.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_add.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_settings.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

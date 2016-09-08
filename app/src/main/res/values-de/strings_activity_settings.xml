@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="title_activity_settings">Einstellungen</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_url">Cloud73.de-Server-URL</string>
+    <string name="pref_url_summary">Die URL des Cloud73.de-Servers</string>
+    <string name="pref_username">Benutzername</string>
+    <string name="pref_username_summary">Ihr Benutzername bei Cloud73.de</string>
+    <string name="pref_password">Password</string>
+    <string name="pref_password_summary">Ihr Passwort bei Cloud73.de</string>
+    <string name="pref_acceptallcerts">Alle SSL-Zertifikate akzeptieren</string>
+    <string name="pref_acceptallcerts_summary">WARNUNG: Dies stellt ein wichtiges Sicherheitsrisiko dar.</string>
+    <string name="pref_defaultstatus">Standardstatus</string>
+    <string name="pref_defaultstatus_summary">Standardstatus der Privatsphäre von Lesezeichen</string>
+
+</resources>

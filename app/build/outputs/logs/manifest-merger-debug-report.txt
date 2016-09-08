@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:2:1-55:12
+	xmlns:android
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:13:5-53:19
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:18:9-40
+	android:logo
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:17:9-45
+activity#app.android.cloud73.BookmarkListActivity
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:19:9-31:20
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:20:13-68
+	android:launchMode
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:22:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:27:13-29:26
+action#android.intent.action.SEARCH
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:28:14-68
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:28:22-65
+meta-data#android.app.searchable
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:30:13-99
+	android:resource
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:30:62-96
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:30:24-61
+activity#app.android.cloud73.BookmarkDetailActivity
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:34:13-58
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:33:13-70
+activity#app.android.cloud73.SettingsActivity
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:38:13-60
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:37:13-64
+activity#app.android.cloud73.BookmarkEditActivity
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:41:13-68
+activity#app.android.cloud73.BookmarkAddActivity
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:label
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:46:13-57
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:45:13-67
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.SEND
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:49:5-63
+	android:name
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:49:15-61
+data
+ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:50:5-42
+	android:mimeType
+		ADDED from C:\androidstudio\projects\cloud73\app\src\main\AndroidManifest.xml:50:11-40

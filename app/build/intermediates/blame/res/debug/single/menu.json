@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\projects\\cloud73\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "C:\\androidstudio\\projects\\cloud73\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    }
+]
