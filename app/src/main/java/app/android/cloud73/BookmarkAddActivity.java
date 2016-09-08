@@ -1,5 +1,8 @@
 /**
- * Scuttloid - Semantic Scuttle Android Client
+ * Cloud73.de Online Bookmark Sync-Client for Android
+ * proudly based on the work of Alexandre Gravel-Raymond
+ *
+ * Copyright (C) 2016 Christian Dinse
  * Copyright (C) 2013 Alexandre Gravel-Raymond
  *
  * This program is free software: you can redistribute it and/or modify
